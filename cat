@@ -6,4 +6,4 @@ Modified in the fourth branch - removed the dashes and fixed some typos.
 Modified in the main branch to fix this comment - Actually forgot to remove the dashes - removed them this time.
 Modified on local laptop after git clone using git bash
 Modified on master branch
-Modified on orgin branch on laptop after ti was modified on master which has not been pulled = setting up a merge conflict
+Modified on master branch after pulled to origin on laptop
